@@ -15,7 +15,14 @@ then run the api with this command:
 
 ` dotnet run `
 
-will be executed on `https://localhost:5055` which could be changed from `launchSettings.json`
+API will be executed on `https://localhost:5055` which could be changed from `launchSettings.json`
+
+
+# 3 - Run Parsan_Student API
+
+read more about this at `https://github.com/haftado3/parsan-student`
+
+
 
 # In Case of Certificate Error 
 
