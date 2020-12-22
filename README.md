@@ -20,7 +20,7 @@ API will be executed on `https://localhost:5055` which could be changed from `la
 
 # 3 - Run Parsan_Student API
 
-read more about this at `https://github.com/haftado3/parsan-student`
+read more about this at https://github.com/haftado3/parsan-student
 
 
 
