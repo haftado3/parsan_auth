@@ -4,7 +4,7 @@ This is a Simple Authentication API using IdentityServer4.
 to use this api just clone it with this command `git clone https://github.com/haftado3/parsan_auth.git`
 then run the api with this command `dotnet run`.
 
-# Execution 
+# 1 - Execution 
 
 ` dotnet run `
 
