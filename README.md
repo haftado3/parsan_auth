@@ -1,4 +1,4 @@
-# parsan_auth
+# Parsan_Auth
 
 This is a Simple Authentication API using IdentityServer4.
 to use this api just clone it with this command `git clone https://github.com/haftado3/parsan_auth.git`
